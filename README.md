@@ -1,4 +1,4 @@
-# WeatheBoshRaaa123r App
+
 
 A simple weather application built with React that allows users to search for weather conditions by city. The application features light and dark theme modes, which can be toggled by the user.
 
